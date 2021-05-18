@@ -1,0 +1,3 @@
+from 'ai-bus' import AiBus;
+
+AiBus.sendMagicallyProcessedEvent("haha");
